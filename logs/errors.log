@@ -11,4 +11,4 @@ else:
 	print('Ошибка: такой операции не существует. Попробуйте ещё раз.')
 	exit()
 print(expression, equation)
-03.12.2022 some error message
+03.12.2022 some error messagebv
