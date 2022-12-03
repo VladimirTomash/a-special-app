@@ -1,0 +1,14 @@
+action = input('enter the action: ')
+first_number = int(input('enter the first number: '))
+second_number = int(input('enter the second number: '))
+if action == "+":
+	expression = str(first_number) + ' + ' + str(second_number) + ' = '
+	equation = first_number + second_number
+elif action == '-':wef	G
+	expression = str(first_number) + ' - ' + str(second_number) + ' = '
+	equation = first_number - second_number
+else:
+	print('Ошибка: такой операции не существует. Попробуйте ещё раз.')
+	exit()
+print(expression, equation)
+03.12.2022 some error message

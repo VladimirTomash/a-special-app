@@ -1,1 +1,2 @@
-errors.log
+logs/*.log
+!logs/samples.log
