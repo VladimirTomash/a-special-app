@@ -11,4 +11,4 @@ else:
 	print('Ошибка: такой операции не существует. Попробуйте ещё раз.')
 	exit()
 print(expression, equation)eegw
-03.12.2022343tttyt
+03.12.2022343tttytfewae
