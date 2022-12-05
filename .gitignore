@@ -1,2 +1,4 @@
-1 logs/
-
+logs/
+ign_1.py
+*.ign
+!111.ign
